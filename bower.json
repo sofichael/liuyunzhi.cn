@@ -1,0 +1,11 @@
+{
+  "name": "htdocs",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "modernizr": "~2.8.1",
+    "malihu-custom-scrollbar-plugin": "~3.0.9",
+    "scrollmagic": "~2.0.5",
+    "animate.css": "~3.3.0"
+  }
+}
