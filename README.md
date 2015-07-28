@@ -7,6 +7,7 @@
 $ git clone git@github.com:sofichael/liuyunzhi.cn.git
 $ cd /liuyunzhi.cn
 $ npm install
+$ bower install
 $ gulp cn
 $ gulp serve
 ```
