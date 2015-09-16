@@ -2656,3 +2656,14 @@ nav  a{
   background-position:center;
 }
 }
+
+/*about me panel*/
+#resume .align-text ul{
+    list-style: initial;
+    padding-left: 15px;
+    text-align: left;
+}
+
+#resume .align-text ul li{
+    padding:5px;
+}
