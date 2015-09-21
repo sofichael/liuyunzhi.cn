@@ -1,2 +1,2 @@
 # liuyunzhi.cn
-add flag
+add flag :cn:
